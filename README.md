@@ -1,7 +1,6 @@
 > * [전체보기](https://ovenapp.io/view/U7bXVGbGsf3c2wEWMjfvkUGqemYtBsti)
 <hr/>
 > * [스마트팩토리 프로그래밍](https://github.com/hosung1000/GDC/tree/master/01)
-<hr/>
 > * [프로그래밍 언어 활용](https://github.com/hosung1000/GDC/tree/master/02)
 > * [응용 SW 기초 기술 활용](https://github.com/hosung1000/GDC/tree/master/03)
 > * [요구사항확인](https://github.com/hosung1000/GDC/tree/master/04)
