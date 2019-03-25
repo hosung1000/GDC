@@ -1,4 +1,4 @@
-> * [전체보기](https://ovenapp.io/view/U7bXVGbGsf3c2wEWMjfvkUGqemYtBsti)
+> * [전체보기](https://github.com/hosung1000/GDC)
 > <hr/>
 > * [스마트팩토리 프로그래밍](https://github.com/hosung1000/GDC/tree/master/01)
 > * [프로그래밍 언어 활용](https://github.com/hosung1000/GDC/tree/master/02)
@@ -17,3 +17,6 @@
 > * [애플리케이션 배포](https://github.com/hosung1000/GDC/tree/master/15)
 > * [프로젝트](https://github.com/hosung1000/GDC/tree/master/16)
 
+* 1단계
+  *2단계
+    *3
