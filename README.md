@@ -16,7 +16,3 @@
 > * [애플리케이션 테스트 관리](https://github.com/hosung1000/GDC/tree/master/14)
 > * [애플리케이션 배포](https://github.com/hosung1000/GDC/tree/master/15)
 > * [프로젝트](https://github.com/hosung1000/GDC/tree/master/16)
-
-* 1단계
-  *2단계
-    *3
