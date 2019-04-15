@@ -35,7 +35,7 @@
 >    <tr>
 >      <td style="text-align: center"><strong><a href="https://github.com/NaJinWook/Smart_Factory/tree/master/15.%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EB%B0%B0%ED%8F%AC">15. 애플리케이션 배포</a></strong></td>
 >      <td style="text-align: center"><strong><a href="https://www.learningtree.com/images/course/grabbers/419-grabber.png">16. 스마트팩토리 프로젝트</a></strong></td>
->      <td style="text-align: center"><strong>천호성</strong></td>
+>      <td style="text-align: center"><strong></strong></td>
 >    </tr>
 >  </tbody>
 ></table>
